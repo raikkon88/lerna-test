@@ -1,10 +1,10 @@
 {
-  "name": "custom-button",
+  "name": "@raikkon88/custom-button",
   "version": "0.1.1",
   "description": "A simple button component",
   "main": "dist/index.js",
   "module": "src/index.js",
-  "repository": "https://github.com/raikkon88/lerna-test",
+  "repository": "https://github.com/raikkon88/lerna-test.git",
   "scripts": {
     "transpile": "babel src -d dist --ignore '**/*.spec.js,**/*.stories.js'",
     "jest": "jest --coverage --verbose --color"

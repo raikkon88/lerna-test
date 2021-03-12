@@ -32,7 +32,7 @@ Create an npmrc into your user folder. ~/.npmrc and paste the following but chan
 Create a file named .npmrc into the project that you need to publish and put the following content :
 
 ```
-registry=https://npm.pkg.github.com/raikkon88/lerna-test
+@raikkon88:registry=https://npm.pkg.github.com
 ```
 
 Configure the package.json with the name of the repository in which you need to publish the package. You need to set up the name of the package as "@OWNER/package-name" where @OWNER is the name of the github user which owns this repo and packages related and the package-name is the name of the repository.
