@@ -4,7 +4,7 @@
   "description": "A simple button component",
   "main": "dist/index.js",
   "module": "src/index.js",
-  "repository": "https://github.com/raikkon88/lerna-test.git",
+  "repository": "git://github.com/raikkon88/lerna-test.git",
   "scripts": {
     "transpile": "babel src -d dist --ignore '**/*.spec.js,**/*.stories.js'",
     "jest": "jest --coverage --verbose --color"
