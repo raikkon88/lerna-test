@@ -1,10 +1,17 @@
 # Tutorials that has been found :
 
-
-
 - Yarn workspaces: https://www.youtube.com/watch?v=G8KXFWftCg0
 - lerna packages: https://www.youtube.com/watch?v=p6qoJ4apCjA
 - Github packages: https://www.youtube.com/watch?v=2-77KhGWlRg
+
+# Another resources
+
+- medium article about workspaces and monorepos : https://medium.com/@masoodhussain02/create-a-react-component-library-using-yarn-workspace-and-publish-5ab486b4ea3b
+- Medium article about workspaces and monorepos : https://medium.com/naresh-bhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe
+- Template to follow to do this approach : https://github.com/nareshbhatia/lerna-workspaces-react-ts
+- Template to follow to do this approach (with Material UI) : https://github.com/nareshbhatia/react-mobx-mui-ts-monorepo
+
+
 
 # Steps to configure
 
