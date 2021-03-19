@@ -6,6 +6,9 @@
 
 # Another resources
 
+- lerna githu pages :  https://github.com/lerna/lerna
+- workspaces yarn : https://classic.yarnpkg.com/en/docs/workspaces/
+
 - medium article about workspaces and monorepos : https://medium.com/@masoodhussain02/create-a-react-component-library-using-yarn-workspace-and-publish-5ab486b4ea3b
 - Medium article about workspaces and monorepos : https://medium.com/naresh-bhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe
 - Template to follow to do this approach : https://github.com/nareshbhatia/lerna-workspaces-react-ts
