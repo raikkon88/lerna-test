@@ -6,7 +6,9 @@
   "main": "dist/index.js",
   "module": "src/index.js",
   "repository": {
-    "url": "ssh://git@github.com:raikkon88/lerna-test.git"
+    "type": "git",
+    "url": "ssh://git@github.com/raikkon88/lerna-test.git",
+    "directory": "packages/CustomButton"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

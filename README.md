@@ -10,6 +10,7 @@
 - Medium article about workspaces and monorepos : https://medium.com/naresh-bhatia/sharing-ui-components-with-lerna-and-yarn-workspaces-be1ebca06efe
 - Template to follow to do this approach : https://github.com/nareshbhatia/lerna-workspaces-react-ts
 - Template to follow to do this approach (with Material UI) : https://github.com/nareshbhatia/react-mobx-mui-ts-monorepo
+- Tutorial to use lerna and github repos with yarn : https://viewsource.io/publishing-and-installing-private-github-packages-using-yarn-and-lerna/
 
 
 
